@@ -1,6 +1,6 @@
 {
 	"name": "node-percipio-collectioncontentreport",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Retrieve a Collection Content Report from Percipio and save locally",
 	"main": "app.js",
 	"scripts": {
